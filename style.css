@@ -1,0 +1,91 @@
+nav{
+    width: 100%;
+    position: fixed;
+    z-index:100;
+    background-color: #fff;
+}
+
+.logo{
+    width:100px;
+    height: 100px;
+}
+
+ul{
+    padding-left:0!important;
+    margin-bottom:0!important;
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: #000!important;
+}
+
+.carousel{
+padding-top: 100px;
+}
+
+.carousel-item img{
+    height: 600px;
+}
+
+.about_us{
+padding-top: 100px;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.about_us_title{
+    font-size: 20px;
+}
+
+.about_us_img{
+    height: 300px;
+    width: 300px;
+}
+
+.know_more{
+    color: #fff;
+    background-color: #9dcd5a;
+    padding: 10px 20px;
+    border-radius: 4px;
+    border: none;
+}
+
+.products{
+    padding: 100px 0;
+}
+
+.blog_img_container{
+    height:245px;
+}
+
+.blog_img_container img{
+    height: 245px;
+}
+
+.btn{
+    background-color: #9dcd5a!important;
+}
+
+.recipes{
+    padding: 100px 0;
+}
+
+    .blog_container{
+        padding:100px 0;
+    }
+.contact_container{
+    background-color: #9dcd5a;
+    padding-top: 40px;
+    color: #fff;
+}
